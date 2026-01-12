@@ -2,6 +2,8 @@
 
 **MakeFamilyTree** is an open-source online family tree maker that allows you to create, customize, and export beautiful family trees effortlessly. It supports avatars, flexible layouts, and transparent image exports, making it ideal for preserving and sharing your family history digitally.
 
+![Example Family Tree](family-tree-1768228756386.png)
+
 ## Features
 
 - Create family trees online with an intuitive interface  
